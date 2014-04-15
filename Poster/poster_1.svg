@@ -18,6 +18,18 @@
    sodipodi:docname="poster_1.svg">
   <defs
      id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient6447">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop6449" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop6451" />
+    </linearGradient>
     <clipPath
        id="SVGID_2_">
       <rect
@@ -1224,6 +1236,15 @@
          x="-5"
          id="use3989" />
     </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6447"
+       id="linearGradient6453"
+       x1="469.30994"
+       y1="8.7093299"
+       x2="1035.8465"
+       y2="8.7093299"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1232,9 +1253,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5731799"
-     inkscape:cx="703.73752"
-     inkscape:cy="772.83988"
+     inkscape:zoom="0.81059879"
+     inkscape:cx="577.14111"
+     inkscape:cy="777.21741"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1342,7 +1363,7 @@
          style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#cccccc;font-family:Apercu Pro;-inkscape-font-specification:Apercu Pro"
          id="tspan4947">|[)\ <tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Apercu Pro;-inkscape-font-specification:Apercu Pro"
-   id="tspan5335">Code a difference. </tspan>]/{(&lt;}|[)\&gt;]/{(&lt;}|[)\&gt;]/{(&lt;}|[)\&gt;]/{(&lt;}|[)\&gt;]/{(&lt;}|[)\&gt;]/{ </tspan><tspan
+   id="tspan5335">Code a difference. </tspan>]/{(&lt;}|[)\&gt;](&lt;}|[)\&gt;]/{(&lt;}|[)\&gt;]/{(&lt;}|[)\&gt;]/{(&lt;}|[)\&gt;]/{ </tspan><tspan
          sodipodi:role="line"
          x="-37.914387"
          y="106.09111"
@@ -1387,7 +1408,9 @@
          style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#cccccc;font-family:Apercu Pro;-inkscape-font-specification:Apercu Pro"
          id="tspan4961">(&lt;}| <tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Apercu Pro;-inkscape-font-specification:Apercu Pro"
-   id="tspan5339">&lt;Die Idee dahinter /&gt; </tspan>[)\&gt;]/{(&lt;}|[)\&gt;]/{(&lt;}|[)\&gt;]/{(&lt;}|[)\&gt;]/{(&lt;}|[)\&gt;]/{(&lt;}| </tspan><tspan
+   id="tspan5339"><tspan
+     style="font-weight:bold;-inkscape-font-specification:Apercu Pro Bold"
+     id="tspan6315">&lt;Die Idee dahinter /&gt; </tspan></tspan>[)\&gt;]/{(&lt;}|[)\&gt;]/{(&lt;}|[)\&gt;]/{(&lt;}|[)\&gt;]/{(&lt;}|[)\&gt;]/{(&lt;}|  </tspan><tspan
          sodipodi:role="line"
          x="-37.914387"
          y="324.84113"
@@ -1420,7 +1443,9 @@
          style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#cccccc;font-family:Apercu Pro;-inkscape-font-specification:Apercu Pro"
          id="tspan4971">|[)\ <tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Apercu Pro;-inkscape-font-specification:Apercu Pro"
-   id="tspan5349">&lt;Partner /&gt; </tspan>&gt;]/{(&lt;}|[)\&gt;]/{(&lt;}|[)\&gt;]/{(&lt;}|[)\&gt;]/{(&lt;}|[)\&gt;]/{(&lt;}|[)\&gt;]/{(&lt;}|[)</tspan><tspan
+   id="tspan5349"><tspan
+     style="font-weight:bold;-inkscape-font-specification:Apercu Pro Bold"
+     id="tspan6317">&lt;Partner /&gt; </tspan></tspan>&gt;]/{(&lt;}|[)\&gt;]/{(&lt;}|[)\&gt;]/{(&lt;}|[)\&gt;]/{(&lt;}|[)\&gt;]/{(&lt;}|[)\&gt;]/{(&lt;}|[) </tspan><tspan
          sodipodi:role="line"
          x="-37.914387"
          y="481.09113"
@@ -1453,21 +1478,23 @@
          style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#cccccc;font-family:Apercu Pro;-inkscape-font-specification:Apercu Pro"
          id="tspan6253">&gt;]/{ <tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Apercu Pro;-inkscape-font-specification:Apercu Pro"
-   id="tspan5363">&lt;Ziele /&gt; </tspan>(&lt;}|[)\&gt;]/{(&lt;}|[)\&gt;]/{(&lt;}|[)\&gt;]/{(&lt;}|[)\&gt;]/{(&lt;}|[)\&gt;]/{(&lt;}|[)\&gt;]/{(</tspan><tspan
+   id="tspan5363"><tspan
+     style="font-weight:bold;-inkscape-font-specification:Apercu Pro Bold"
+     id="tspan6319">&lt;Ziele /&gt; </tspan></tspan>(&lt;}|[)\&gt;]/{(&lt;}|[)\&gt;]/{(&lt;}|[)\&gt;]/{(&lt;}|[)\&gt;]/{(&lt;}|[)\&gt;]/{(&lt;}|[)\&gt;]/{( </tspan><tspan
          sodipodi:role="line"
          x="-37.914387"
          y="637.34113"
          style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#cccccc;font-family:Apercu Pro;-inkscape-font-specification:Apercu Pro"
          id="tspan5237">}|[) <tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Apercu Pro;-inkscape-font-specification:Apercu Pro"
-   id="tspan5367">/ Gemeinsam mehr Werkzeuge für Bürger entwickeln </tspan>\&gt;]/{(&lt;}|[)\&gt;]/{(&lt;}|[)\&gt;]/{(</tspan><tspan
+   id="tspan5367">/ Gemeinsam mehr Werkzeuge für Bürger entwickeln </tspan>/{(&lt;}|[)\&gt;]/{(&lt;}|[)\&gt;]/{(</tspan><tspan
          sodipodi:role="line"
          x="-37.914387"
          y="668.59113"
          style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#cccccc;font-family:Apercu Pro;-inkscape-font-specification:Apercu Pro"
          id="tspan5239">)\&gt;] <tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Apercu Pro;-inkscape-font-specification:Apercu Pro"
-   id="tspan5369">/ Das Thema Open Data vorantreiben – Mehr Daten öffnen! </tspan>/{(&lt;}|[)\&gt;]/{(&lt;}|[)\&gt;</tspan><tspan
+   id="tspan5369">/ Das Thema Open Data vorantreiben – Mehr Daten öffnen! </tspan>(&lt;}|[)\&gt;]/{(&lt;}|[)\&gt;</tspan><tspan
          sodipodi:role="line"
          x="-37.914387"
          y="699.84113"
@@ -1485,8 +1512,8 @@
          y="762.34113"
          style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#cccccc;font-family:Apercu Pro;-inkscape-font-specification:Apercu Pro"
          id="tspan5245">[)\&gt; <tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Apercu Pro;-inkscape-font-specification:Apercu Pro"
-   id="tspan5373">&lt;Interesse? /&gt; </tspan>]/{(&lt;}|[)\&gt;]/{(&lt;}|[)\&gt;]/{(&lt;}|[)\&gt;]/{(&lt;}|[)\&gt;]/{(&lt;}|[)\&gt;]/{(&lt;}|</tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;font-family:Apercu Pro;-inkscape-font-specification:Apercu Pro Bold"
+   id="tspan5373">&lt;Interesse? /&gt; </tspan>]/{(&lt;}|[){(&lt;}|[)\&gt;]/{(&lt;}|[)\&gt;]/{(&lt;}|[)\&gt;]/{(&lt;}|[)\&gt;]/{(&lt;}| </tspan><tspan
          sodipodi:role="line"
          x="-37.914387"
          y="793.59113"
@@ -1503,14 +1530,14 @@
          x="-37.914387"
          y="856.09113"
          style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#cccccc;font-family:Apercu Pro;-inkscape-font-specification:Apercu Pro"
-         id="tspan5251">)\&gt;]/{(&lt;}|[)\&gt;]/{(&lt;}|[)\&gt;]/{(&lt;}|[)\&gt;]/{(&lt;}|[)\&gt;]/{(&lt;}|[)\&gt;]/{(&lt;}|[)\&gt;]/{(&lt;}|[)\&gt;]/</tspan><tspan
+         id="tspan5251">)\&gt;]/{(&lt;}|[)\&gt;]/{(&lt;}|[)\&gt;]/{(&lt;}|[)\&gt;]/{(&lt;}|[/{(&lt;}|[)\&gt;]/{(&lt;}|[)\&gt;]/{(&lt;}|[)\&gt;]/</tspan><tspan
          sodipodi:role="line"
          x="-37.914387"
          y="887.34113"
          style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#cccccc;font-family:Apercu Pro;-inkscape-font-specification:Apercu Pro"
          id="tspan5253">|[)\ <tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Apercu Pro;-inkscape-font-specification:Apercu Pro"
-   id="tspan6151">&lt;Open Knowledge Lab Chemnitz /&gt; </tspan>&gt;]/{(&lt;}|[)\&gt;]/{(&lt;}|[)\&gt;]/{(&lt;}|[)\&gt;]/{(&lt;}|[)\&gt;</tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;font-family:Apercu Pro;-inkscape-font-specification:Apercu Pro Bold"
+   id="tspan6151">&lt;Open Knowledge Lab Chemnitz /&gt; </tspan>&gt;]/{(&lt;})\&gt;]/{(&lt;}|[)\&gt;]/{(&lt;}|[)\&gt;]/{(&lt;}|[)\&gt;{] </tspan><tspan
          sodipodi:role="line"
          x="-37.914387"
          y="918.59113"
@@ -1540,7 +1567,7 @@
          x="-37.914387"
          y="1012.3411"
          style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#cccccc;font-family:Apercu Pro;-inkscape-font-specification:Apercu Pro"
-         id="tspan5261">[)\&gt;]/{(&lt;}|[)\&gt;]/{(&lt;}|[)\&gt;]/{(&lt;}|[)\&gt;]/{(&lt;}|[)\&gt;]/{(&lt;}|[)\&gt;]/{(&lt;}|[)\&gt;]/{(&lt;}|[)\&gt;]</tspan><tspan
+         id="tspan5261">[)\&gt;]/{(&lt;}|[)\&gt;]/{(&lt;}|\&gt;]/{(&lt;}|&gt;]/{(&lt;}|[)\&gt;]/{(&lt;}|[)\&gt;]/{(&lt;}|[)\&gt;]/{(&lt;}|[)\&gt;]</tspan><tspan
          sodipodi:role="line"
          x="-37.914387"
          y="1043.5911"
@@ -1817,5 +1844,17 @@
            style="fill:#ffffff" />
       </g>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans;stroke-opacity:1;stroke-width:0.20000000000000001;stroke-miterlimit:4;stroke-dasharray:none"
+       x="1036.3236"
+       y="12.80433"
+       id="text6443"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6445"
+         x="1036.3236"
+         y="12.80433"
+         style="font-size:15px;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;-inkscape-font-specification:Apercu Pro;font-family:Apercu Pro;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;stroke:none;stroke-opacity:1;stroke-width:0.20000000000000001;stroke-miterlimit:4;stroke-dasharray:none"> cc-by-nc https://www.flickr.com/photos/wurstbrot/3785247813/</tspan></text>
   </g>
 </svg>
